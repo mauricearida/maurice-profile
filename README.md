@@ -11,6 +11,7 @@
 - 💻 &nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
  - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
