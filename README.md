@@ -49,7 +49,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/maurice-arida-b90856177/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maurice%20Arida%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/iammauricearida/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/iammauricearida/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-maurice__-blue?style=flat-square&logo=instagram"></a>
 ![Gmail Badge](https://img.shields.io/badge/-maurice.arida66@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 </p>
 
