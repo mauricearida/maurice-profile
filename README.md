@@ -50,6 +50,6 @@
 
 <a href="https://www.linkedin.com/in/maurice-arida-b90856177/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maurice%20Arida%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/iammauricearida/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-maurice_-blue?style=flat-square&logo=instagram"></a>
-![Gmail Badge](https://img.shields.io/badge/-maurice.arida66@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
+<a href="mailto:maurice.arida66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maurice.arida66@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
