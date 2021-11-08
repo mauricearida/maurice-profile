@@ -15,7 +15,7 @@
  - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![MongoDB](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=graphql)
+  ![GraphQL](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
