@@ -44,6 +44,6 @@
 <a href="https://www.linkedin.com/in/maurice-arida-b90856177/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maurice%20Arida%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/iammauricearida/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-maurice_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:maurice.arida66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maurice.arida66@gmail.com-blue?style=flat-square&logo=gmail"></a>
- <a href="https://wa.me/+96171752124/?text=urlencodedtext"></a>
+ [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=+96171752124&text=Hi!)
 </p>
 
