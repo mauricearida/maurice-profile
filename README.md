@@ -15,7 +15,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-- - 🛢 &nbsp;
+ - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
