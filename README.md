@@ -5,7 +5,6 @@
 
 - 🤔 &nbsp; Exploring new technologies/libraries everyday
 - 🌱 &nbsp; Huge huge passion for learning
-- ✍️ 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
