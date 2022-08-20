@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies/libraries everyday
-- 🌱 &nbsp; Huge huge passion for learning
+- 🌱 &nbsp; Software is a solution for a physical problem
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
